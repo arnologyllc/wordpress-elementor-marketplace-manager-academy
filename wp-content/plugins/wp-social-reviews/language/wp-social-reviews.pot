@@ -1,0 +1,2564 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Social Reviews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-10 12:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7.2\n"
+"X-Domain: wp-social-reviews"
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:543
+msgid " account. "
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:233
+#, php-format
+msgid " API error: %s"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:65
+msgid " Notification Popup"
+msgstr ""
+
+#: app/Views/public/feeds-templates/twitter/elements/retweeted-status.php:9
+msgid " Retweeted"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:47
+msgid " reviews fetched successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:71
+msgid " Template"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:381
+msgid " to fetch videos!! "
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:43
+msgid "!!"
+msgstr ""
+
+#: app/Hooks/actions.php:148
+msgid "-- Select a template --"
+msgstr ""
+
+#: app/Hooks/filters.php:57
+msgid "1 Month"
+msgstr ""
+
+#: app/Hooks/filters.php:64
+msgid "1 Year"
+msgstr ""
+
+#: app/Hooks/filters.php:22
+msgid "5 min"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:459
+msgid "9+ templates"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:391
+msgid "Access code should not be empty!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:261
+msgid "Action"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:707
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:401
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:277
+msgid "Actions"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:353
+msgid ""
+"Add Tripadvisor reviews anywhere on your website to improve your brand’s "
+"social media marketing."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:149
+msgid "Airbnb"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:305
+msgid "Airbnb Reviews"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:475
+msgid "Ajax Load More Pagination"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:398
+msgid "AliExpress Reviews"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:345
+#: app/Services/Widgets/YoutubeWidget.php:545
+#: app/Services/Widgets/ReviewsWidget.php:223
+#: app/Services/Widgets/ReviewsWidget.php:313
+#: app/Services/Widgets/ReviewsWidget.php:403
+#: app/Services/Widgets/ReviewsWidget.php:493
+msgid "Alignment"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:208
+msgid "All Collections"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:375
+msgid "Amazon Reviews"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:284
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:201
+#: app/Services/Platforms/Feeds/Twitter/Config.php:163
+#: app/Services/Platforms/Feeds/Facebook/Config.php:99
+msgid "Author"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:141
+msgid "Author Position"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:468
+msgid "Automatically syncing reviews"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:657
+#: app/Services/Widgets/YoutubeWidget.php:733
+#: app/Services/Widgets/InstagramWidget.php:554
+#: app/Services/Widgets/InstagramWidget.php:643
+#: app/Services/Widgets/FacebookFeedWidget.php:119
+#: app/Services/Widgets/FacebookFeedWidget.php:784
+#: app/Services/Widgets/TwitterWidget.php:844
+#: app/Services/Widgets/TwitterWidget.php:933
+#: app/Services/Widgets/ReviewsWidget.php:709
+#: app/Services/Widgets/ReviewsWidget.php:787
+msgid "Background"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:277
+#: app/Services/Widgets/InstagramWidget.php:305
+#: app/Services/Widgets/FacebookFeedWidget.php:219
+#: app/Services/Widgets/FacebookFeedWidget.php:704
+#: app/Services/Widgets/TwitterWidget.php:433
+#: app/Services/Widgets/ReviewsWidget.php:155
+#: app/Services/Widgets/ReviewsWidget.php:641
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:228
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:261
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:358
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:402
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:278
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:310
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:450
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:494
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:51
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:65
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:164
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:186
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:230
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:179
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:212
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:292
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:336
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:153
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:428
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:464
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:508
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:326
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:237
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:241
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:278
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:327
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:371
+msgid "Background Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:87
+#: app/Services/Platforms/Reviews/Config.php:103
+#: app/Services/Platforms/Reviews/Config.php:258
+#: app/Services/Platforms/Reviews/Config.php:326
+#: app/Services/Platforms/Reviews/Config.php:410
+#: app/Services/Platforms/Reviews/Config.php:435
+#: app/Services/Platforms/Reviews/Config.php:454
+#: app/Services/Platforms/Feeds/Twitter/Config.php:135
+#: app/Services/Platforms/Feeds/Twitter/Config.php:151
+#: app/Services/Platforms/Feeds/Instagram/Config.php:140
+#: app/Services/Platforms/Feeds/Instagram/Config.php:311
+#: app/Services/Platforms/Feeds/Instagram/Config.php:330
+#: app/Services/Platforms/Feeds/Youtube/Config.php:100
+#: app/Services/Platforms/Feeds/Youtube/Config.php:116
+#: app/Services/Platforms/Feeds/Youtube/Config.php:201
+#: app/Services/Platforms/Feeds/Youtube/Config.php:220
+#: app/Services/Platforms/Feeds/Facebook/Config.php:87
+#: app/Services/Platforms/Feeds/Facebook/Config.php:262
+#: app/Services/Platforms/Feeds/Facebook/Config.php:287
+#: app/Services/Platforms/Feeds/Facebook/Config.php:306
+msgid "Background Color:"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:336
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:247
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:251
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:288
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:381
+msgid "Background Hover Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:267
+msgid "Badge"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:149
+msgid "Based on {total_reviews} Reviews"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:421
+msgid "Booking.com Reviews"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:244
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:285
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:379
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:383
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:423
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:427
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:293
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:331
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:471
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:475
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:515
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:519
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:94
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:98
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:207
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:211
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:251
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:255
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:195
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:236
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:313
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:317
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:357
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:361
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:177
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:485
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:489
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:529
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:533
+msgid "Border"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:310
+#: app/Services/Widgets/YoutubeWidget.php:699
+#: app/Services/Widgets/YoutubeWidget.php:775
+#: app/Services/Widgets/InstagramWidget.php:338
+#: app/Services/Widgets/InstagramWidget.php:596
+#: app/Services/Widgets/InstagramWidget.php:685
+#: app/Services/Widgets/FacebookFeedWidget.php:161
+#: app/Services/Widgets/FacebookFeedWidget.php:737
+#: app/Services/Widgets/FacebookFeedWidget.php:826
+#: app/Services/Widgets/TwitterWidget.php:466
+#: app/Services/Widgets/TwitterWidget.php:886
+#: app/Services/Widgets/TwitterWidget.php:975
+#: app/Services/Widgets/ReviewsWidget.php:188
+#: app/Services/Widgets/ReviewsWidget.php:751
+#: app/Services/Widgets/ReviewsWidget.php:829
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:250
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:292
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:390
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:434
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:299
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:337
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:482
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:526
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:105
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:218
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:262
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:201
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:243
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:324
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:368
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:184
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:496
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:540
+msgid "Border Radius"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:127
+#: app/Services/Widgets/InstagramWidget.php:126
+#: app/Services/Widgets/FacebookFeedWidget.php:478
+#: app/Services/Widgets/FacebookFeedWidget.php:518
+#: app/Services/Widgets/FacebookFeedWidget.php:599
+#: app/Services/Widgets/FacebookFeedWidget.php:647
+#: app/Services/Widgets/TwitterWidget.php:127
+#: app/Services/Widgets/TwitterWidget.php:176
+#: app/Services/Widgets/TwitterWidget.php:237
+#: app/Services/Widgets/TwitterWidget.php:285
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:77
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:126
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:163
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:77
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:114
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:156
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:193
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:77
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:114
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:77
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:226
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:260
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:294
+#: app/Services/Platforms/Feeds/Instagram/Config.php:32
+#: app/Services/Platforms/Feeds/Facebook/Config.php:32
+#: app/Services/Platforms/Feeds/Facebook/Config.php:51
+#: app/Services/Platforms/Feeds/Facebook/Config.php:200
+#: app/Services/Platforms/Feeds/Facebook/Config.php:218
+msgid "Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:268
+#: app/Services/Widgets/InstagramWidget.php:296
+#: app/Services/Widgets/FacebookFeedWidget.php:695
+#: app/Services/Widgets/TwitterWidget.php:424
+#: app/Services/Platforms/Reviews/Config.php:95
+#: app/Services/Platforms/Reviews/Config.php:318
+#: app/Services/Platforms/Reviews/Config.php:402
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:257
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:306
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:208
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:149
+#: app/Services/Platforms/Feeds/Twitter/Config.php:143
+#: app/Services/Platforms/Feeds/Instagram/Config.php:132
+#: app/Services/Platforms/Feeds/Youtube/Config.php:108
+#: app/Services/Platforms/Feeds/Facebook/Config.php:79
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:356
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:267
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:271
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:308
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:401
+msgid "Box"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:360
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:271
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:275
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:312
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:405
+msgid "Box Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:47
+msgid "Business Info/Header"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:55
+msgid "Business name field should not be empty!"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:247
+#: app/Services/Widgets/InstagramWidget.php:275
+#: app/Services/Widgets/TwitterWidget.php:403
+#: app/Services/Widgets/ReviewsWidget.php:142
+msgid "Button Background Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:124
+msgid "Button Background Color:"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:433
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:749
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:920
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:526
+msgid "Cache cleared successfully!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:278
+msgid "Call to action"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:473
+msgid "Call to Action button"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:52
+msgid "Can't authenticate you,please provide valid information"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/AirbnbHelper.php:32
+#: app/Services/Platforms/Reviews/AirbnbHelper.php:49
+#: app/Services/Platforms/Reviews/AirbnbHelper.php:83
+msgid "Can't fetch reviews due to slow network, please try again"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:615
+msgid "Can't find any videos to the channel!!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:54
+msgid "Card Data Deleted Successfully!"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:353
+#: app/Services/Widgets/YoutubeWidget.php:553
+#: app/Services/Widgets/ReviewsWidget.php:231
+#: app/Services/Widgets/ReviewsWidget.php:321
+#: app/Services/Widgets/ReviewsWidget.php:411
+#: app/Services/Widgets/ReviewsWidget.php:501
+msgid "Center"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:98
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:52
+#: app/Services/Platforms/Feeds/Youtube/Config.php:25
+msgid "Channel Name"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:85
+msgid "Channel Name Color"
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:50
+msgid "Chat Widget"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:81
+msgid "Chat Widgets"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:103
+msgid "Chris Morphe"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/ConfigsController.php:104
+msgid "Clear Configurations"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:338
+msgid "Close Icon"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:371
+#: app/Services/Widgets/YoutubeWidget.php:461
+#: app/Services/Widgets/YoutubeWidget.php:571
+#: app/Services/Widgets/FacebookFeedWidget.php:578
+#: app/Services/Widgets/FacebookFeedWidget.php:626
+#: app/Services/Widgets/FacebookFeedWidget.php:674
+#: app/Services/Widgets/TwitterWidget.php:106
+#: app/Services/Widgets/TwitterWidget.php:154
+#: app/Services/Widgets/TwitterWidget.php:264
+#: app/Services/Widgets/TwitterWidget.php:360
+#: app/Services/Widgets/TwitterWidget.php:498
+#: app/Services/Widgets/TwitterWidget.php:541
+#: app/Services/Widgets/ReviewsWidget.php:249
+#: app/Services/Widgets/ReviewsWidget.php:339
+#: app/Services/Widgets/ReviewsWidget.php:429
+#: app/Services/Widgets/ReviewsWidget.php:519
+#: app/Services/Widgets/ReviewsWidget.php:583
+#: app/Services/Widgets/ReviewsWidget.php:629
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:56
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:142
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:179
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:219
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:56
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:93
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:130
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:172
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:269
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:56
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:130
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:170
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:56
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:93
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:205
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:239
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:273
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:419
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:213
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:306
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:217
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:221
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:137
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:161
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:185
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:234
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:258
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:194
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:228
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:351
+msgid "Color"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:461
+msgid "Combine multiple platform"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:38
+msgid "Comments"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:460
+msgid "Connect multiple businesses"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:75
+#: app/Views/public/chat-templates/elements/fluent-form.php:8
+msgid "Contact Us"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:365
+#: app/Services/Widgets/FacebookFeedWidget.php:276
+#: app/Services/Widgets/TwitterWidget.php:631
+#: app/Services/Widgets/ReviewsWidget.php:485
+#: app/Services/Platforms/Reviews/Config.php:201
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:300
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:379
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:192
+#: app/Services/Platforms/Feeds/Twitter/Config.php:225
+#: app/Services/Platforms/Feeds/Instagram/Config.php:149
+#: app/Services/Platforms/Feeds/Facebook/Config.php:96
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:243
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:155
+msgid "Content"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:193
+msgid "Count Color"
+msgstr ""
+
+#: app/Services/Widgets/Helper.php:30
+msgid "Create a template first"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/ReviewsTrait.php:18
+#: app/Services/Platforms/Reviews/Helper.php:228
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:48
+msgid "Custom"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:88
+msgid "Dany Williams"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:235
+#: app/Services/Platforms/Feeds/Twitter/Config.php:199
+msgid "Date"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:321
+msgid "Date Color"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:195
+#: app/Services/Widgets/YoutubeWidget.php:537
+#: app/Services/Widgets/InstagramWidget.php:223
+#: app/Services/Widgets/FacebookFeedWidget.php:618
+#: app/Services/Widgets/TwitterWidget.php:195
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:175
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:126
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:126
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:275
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:89
+#: app/Services/Platforms/Feeds/Twitter/Config.php:57
+#: app/Services/Platforms/Feeds/Instagram/Config.php:94
+#: app/Services/Platforms/Feeds/Youtube/Config.php:70
+#: app/Services/Platforms/Feeds/Youtube/Config.php:166
+#: app/Services/Platforms/Feeds/Facebook/Config.php:44
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:193
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:181
+msgid "Description"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:392
+msgid "Description Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:537
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:371
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:105
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:115
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:105
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:94
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:302
+msgid "Description Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:237
+msgid "Description Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:376
+msgid "Description Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:382
+msgid "Description Font Weight"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:387
+msgid "Description Line Height"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:123
+msgid "Description Typography"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:306
+msgid ""
+"Display Airbnb reviews & engage with your customers post purchasing to hook "
+"your site visitors instantly."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:330
+msgid ""
+"Display Yelp reviews on your website & take on board your potential "
+"customers to kickstart your business."
+msgstr ""
+
+#: app/Services/SidebarWidgets.php:24
+msgid "Display your feed in a widget"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:33
+msgid "doesn't recommend"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:328
+msgid "Domain Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:457
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:307
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:282
+msgid "Domain Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:204
+msgid "Domain Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:312
+msgid "Domain Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:318
+msgid "Domain Font Weight"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:323
+msgid "Domain Line Height"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:182
+msgid "Error 1: No key found."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:229
+msgid "Error connecting to instagram"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:168
+msgid "Error finding key. Please try again."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:326
+msgid "Error in API key settings,Please check your API key is valid or not."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:211
+msgid "Error: Something went wrong. Please try again"
+msgstr ""
+
+#: app/Hooks/filters.php:43
+msgid "Every 1 Week"
+msgstr ""
+
+#: app/Hooks/filters.php:29
+msgid "Every 2 Day"
+msgstr ""
+
+#: app/Hooks/filters.php:50
+msgid "Every 2 Week"
+msgstr ""
+
+#: app/Hooks/filters.php:36
+msgid "Every 3 Day"
+msgstr ""
+
+#: app/Services/Helper.php:133
+msgid "Everywhere"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:467
+msgid "Extensive Style Option"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:32
+msgid "Facebook Feed"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:75
+msgid "Facebook Feed Template"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:11
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:20
+msgid "Facebook Feeds"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:445
+msgid "Facebook Reviews"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:126
+msgid "Feedback"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/OxygenWidget.php:52
+msgid "Feeds"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:422
+msgid ""
+"Fetch & display your Booking.com reviews to connect with your audiences "
+"without wasting any time."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:376
+msgid ""
+"Fetch & exhibit Amazon reviews on your website & reach out to larger "
+"audiences for better brand exposure."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:131
+msgid "Field should not be empty!"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:465
+msgid "Filter by minimum rating"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:85
+msgid "Follow"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:253
+#: app/Services/Widgets/TwitterWidget.php:381
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:205
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:255
+#: app/Services/Platforms/Feeds/Twitter/Config.php:121
+#: app/Services/Platforms/Feeds/Instagram/Config.php:110
+msgid "Follow Button"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:155
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:144
+msgid "Follow Button Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:145
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:134
+msgid "Follow Button Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:165
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:125
+msgid "Follow Button Typography"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:310
+msgid "Follow on Instagram"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:25
+msgid "Followers"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:24
+msgid "Following"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:61
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:103
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:147
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:184
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:208
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:61
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:98
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:140
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:177
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:219
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:258
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:61
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:98
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:135
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:159
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:61
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:98
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:128
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:210
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:244
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:278
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:407
+msgid "Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:67
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:109
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:153
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:190
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:67
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:104
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:146
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:183
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:225
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:67
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:104
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:141
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:67
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:104
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:134
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:216
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:250
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:284
+msgid "Font Weight"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:67
+msgid "Friday"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:98
+#: app/Services/Platforms/Feeds/Twitter/Config.php:25
+#: app/Services/Platforms/Feeds/Instagram/Config.php:78
+msgid "Full Name"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:193
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:175
+msgid "FullName"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:138
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:52
+msgid "Fullname"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:85
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:105
+msgid "FullName Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:53
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:53
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:53
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:51
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:52
+msgid "General"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:191
+msgid "Google"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:73
+msgid "Google My Business Template"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:458
+msgid "Grid/Slider/Masonry/Badge layout variation"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:244
+msgid "Hashtag"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:385
+#: app/Services/Widgets/TwitterWidget.php:651
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:305
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:383
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:257
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:169
+msgid "Hashtag Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:252
+#: app/Services/Platforms/Feeds/Instagram/Config.php:159
+msgid "Hashtag Color:"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:90
+#: app/Services/Widgets/InstagramWidget.php:89
+#: app/Services/Widgets/FacebookFeedWidget.php:562
+#: app/Services/Widgets/TwitterWidget.php:90
+#: app/Services/Platforms/Reviews/Config.php:22
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:47
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:47
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:47
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:47
+#: app/Services/Platforms/Feeds/Twitter/Config.php:22
+#: app/Services/Platforms/Feeds/Instagram/Config.php:22
+#: app/Services/Platforms/Feeds/Youtube/Config.php:22
+#: app/Services/Platforms/Feeds/Facebook/Config.php:22
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:71
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:71
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:71
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:69
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:70
+msgid "Header"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:75
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:75
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:75
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:73
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:74
+msgid "Header Background Color"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:100
+msgid "Header/Business Info"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:18
+msgid ""
+"Hello 👋 Thanks for your interest in us. Before we begin, may I know your "
+"name?"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:16
+msgid "Hey there 👋 <br> It’s your friend Dany Williams. How can I help you?"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:22
+msgid ""
+"Hey! We’ve got a great sale offer running. I am happy to tell you about it. "
+"Let me know if you've any questions."
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:20
+msgid ""
+"Hi there👋 Quick question - How do you like our WP Social Ninja plugin so far?"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:509
+#: app/Services/Widgets/TwitterWidget.php:554
+#: app/Services/Widgets/ReviewsWidget.php:595
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:189
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:223
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:316
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:227
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:231
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:268
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:204
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:361
+msgid "Hover Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpmanageninja.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpsocialninja.com/"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:72
+msgid "I will be back soon"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:280
+msgid "Icon"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:461
+#: app/Services/Widgets/FacebookFeedWidget.php:207
+#: app/Services/Widgets/TwitterWidget.php:727
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:291
+msgid "Icon Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:346
+#: app/Services/Platforms/Feeds/Twitter/Config.php:288
+#: app/Services/Platforms/Feeds/Instagram/Config.php:193
+msgid "Icon Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:444
+msgid "Icon Height"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:739
+msgid "Icon Hover Background Color"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:751
+msgid "Icon Hover Color"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:240
+msgid "Icon Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:449
+msgid "Icon Width"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:472
+msgid "In-depth header settings"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:466
+msgid "Include/exclude specific reviews"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:36
+msgid "Instagram"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:11
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:20
+msgid "Instagram Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:419
+msgid "Instagram Settings Updated successfully"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:265
+msgid "Instagram Successfully Connected!"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:724
+#: app/Services/Widgets/InstagramWidget.php:622
+#: app/Services/Widgets/FacebookFeedWidget.php:763
+#: app/Services/Widgets/TwitterWidget.php:912
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:397
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:489
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:331
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:503
+#: app/Services/Platforms/Feeds/Youtube/Config.php:210
+#: app/Services/Platforms/Feeds/Facebook/Config.php:296
+msgid "Item Box"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:180
+msgid "Just left us a {review_rating} star review"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:264
+msgid "Label"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:349
+#: app/Services/Widgets/YoutubeWidget.php:549
+#: app/Services/Widgets/ReviewsWidget.php:227
+#: app/Services/Widgets/ReviewsWidget.php:317
+#: app/Services/Widgets/ReviewsWidget.php:407
+#: app/Services/Widgets/ReviewsWidget.php:497
+msgid "Left"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:133
+msgid "Leo Connor"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:187
+#: app/Services/Platforms/Feeds/Facebook/Config.php:246
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:313
+msgid "Like and Share Button"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:419
+msgid "Like Page"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:404
+msgid "Like/Share Button"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:666
+#: app/Services/Platforms/Feeds/Facebook/Config.php:63
+msgid "Likes"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:41
+msgid "likes"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:104
+msgid "Likes Count Color"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:119
+msgid "Likes Counter"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:132
+msgid "Likes Counter Typography"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:72
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:114
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:158
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:195
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:72
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:109
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:151
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:188
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:230
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:72
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:109
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:146
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:72
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:109
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:139
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:221
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:255
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:289
+msgid "Line Height"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:413
+#: app/Services/Widgets/TwitterWidget.php:216
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:135
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:238
+msgid "Link Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:170
+msgid "Link Color:"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:425
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:248
+msgid "Link Hover Color"
+msgstr ""
+
+#: app/Views/public/feeds-templates/youtube/elements/preview_image.php:30
+msgid "LIVE"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:217
+#: app/Services/Platforms/Feeds/Config.php:329
+#: app/Services/Platforms/Feeds/Config.php:429
+#: app/Services/Platforms/Reviews/Helper.php:154
+msgid "Load More"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:302
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:213
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:217
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:254
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:347
+msgid "Load More Button"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:256
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:168
+#: app/Services/Platforms/Feeds/Twitter/Config.php:73
+msgid "Location"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:115
+msgid "Location Color"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:469
+msgid "Manually syncing reviews"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:392
+#: app/Services/Widgets/YoutubeWidget.php:502
+#: app/Services/Widgets/YoutubeWidget.php:592
+#: app/Services/Widgets/YoutubeWidget.php:666
+#: app/Services/Widgets/YoutubeWidget.php:742
+#: app/Services/Widgets/InstagramWidget.php:406
+#: app/Services/Widgets/InstagramWidget.php:482
+#: app/Services/Widgets/InstagramWidget.php:563
+#: app/Services/Widgets/InstagramWidget.php:652
+#: app/Services/Widgets/FacebookFeedWidget.php:128
+#: app/Services/Widgets/FacebookFeedWidget.php:793
+#: app/Services/Widgets/TwitterWidget.php:596
+#: app/Services/Widgets/TwitterWidget.php:672
+#: app/Services/Widgets/TwitterWidget.php:772
+#: app/Services/Widgets/TwitterWidget.php:853
+#: app/Services/Widgets/TwitterWidget.php:942
+#: app/Services/Widgets/ReviewsWidget.php:270
+#: app/Services/Widgets/ReviewsWidget.php:360
+#: app/Services/Widgets/ReviewsWidget.php:450
+#: app/Services/Widgets/ReviewsWidget.php:540
+#: app/Services/Widgets/ReviewsWidget.php:718
+#: app/Services/Widgets/ReviewsWidget.php:796
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:278
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:346
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:375
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:419
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:325
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:438
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:467
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:511
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:90
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:203
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:247
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:229
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:268
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:309
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:353
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:170
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:481
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:525
+msgid "Margin"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:533
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:356
+#: app/Services/Platforms/Feeds/Twitter/Config.php:180
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:209
+msgid "Meta"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:63
+msgid "Monday"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:491
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:344
+#: app/Services/Platforms/Feeds/Twitter/Config.php:160
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:133
+msgid "Name"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:292
+msgid "Name Color"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:111
+msgid "Need Help?"
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:88
+msgid "No chat widget found when duplicating the chat widget."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:343
+msgid "No credential found. Please configure your YouTube settings correctly."
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:104
+msgid "No notification stream found when duplicating the notification."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:267
+msgid "No reviews Found!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:260
+msgid "No reviews found!"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:118
+msgid "No template found when duplicating the template"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:75
+msgid "No template is available for this shortcode!!"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:424
+#: app/Hooks/Handlers/ShortcodeHandler.php:518
+msgid "No Templates found!! Please save and try again"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:335
+msgid "Notification"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:164
+msgid "Notification has been successfully deleted."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:76
+msgid "Notification Popups"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:140
+msgid "Notification status update successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/NotificationsController.php:123
+msgid "Notification successfully duplicated."
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:370
+msgid "Notification Title"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:98
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:214
+msgid "Number Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:52
+msgid "Number Color:"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:118
+msgid "Olivia Scott"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:34
+msgid "on"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:101
+msgid "On Site"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:257
+msgid "Oops, Somethings wrong. "
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:290
+#: app/Services/Widgets/YoutubeWidget.php:410
+#: app/Services/Widgets/YoutubeWidget.php:520
+#: app/Services/Widgets/YoutubeWidget.php:610
+#: app/Services/Widgets/YoutubeWidget.php:678
+#: app/Services/Widgets/YoutubeWidget.php:754
+#: app/Services/Widgets/InstagramWidget.php:318
+#: app/Services/Widgets/InstagramWidget.php:424
+#: app/Services/Widgets/InstagramWidget.php:575
+#: app/Services/Widgets/InstagramWidget.php:664
+#: app/Services/Widgets/FacebookFeedWidget.php:140
+#: app/Services/Widgets/FacebookFeedWidget.php:259
+#: app/Services/Widgets/FacebookFeedWidget.php:717
+#: app/Services/Widgets/FacebookFeedWidget.php:805
+#: app/Services/Widgets/TwitterWidget.php:446
+#: app/Services/Widgets/TwitterWidget.php:614
+#: app/Services/Widgets/TwitterWidget.php:690
+#: app/Services/Widgets/TwitterWidget.php:865
+#: app/Services/Widgets/TwitterWidget.php:954
+#: app/Services/Widgets/ReviewsWidget.php:168
+#: app/Services/Widgets/ReviewsWidget.php:288
+#: app/Services/Widgets/ReviewsWidget.php:378
+#: app/Services/Widgets/ReviewsWidget.php:468
+#: app/Services/Widgets/ReviewsWidget.php:558
+#: app/Services/Widgets/ReviewsWidget.php:662
+#: app/Services/Widgets/ReviewsWidget.php:730
+#: app/Services/Widgets/ReviewsWidget.php:808
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:237
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:271
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:314
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:368
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:412
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:287
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:319
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:349
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:372
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:393
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:460
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:504
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:74
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:83
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:117
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:129
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:141
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:153
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:174
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:196
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:240
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:188
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:222
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:255
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:280
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:302
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:346
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:163
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:197
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:437
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:474
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:518
+msgid "Padding"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:84
+msgid "PageName Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:114
+msgid "PageName Typography"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:627
+#: app/Services/Widgets/InstagramWidget.php:524
+#: app/Services/Widgets/FacebookFeedWidget.php:89
+#: app/Services/Widgets/TwitterWidget.php:814
+#: app/Services/Widgets/ReviewsWidget.php:679
+#: app/Services/Platforms/Reviews/Config.php:419
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:353
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:445
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:181
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:287
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:459
+#: app/Services/Platforms/Feeds/Instagram/Config.php:295
+#: app/Services/Platforms/Feeds/Youtube/Config.php:185
+#: app/Services/Platforms/Feeds/Facebook/Config.php:271
+msgid "Pagination"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:29
+msgid "people like this"
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/elements/media.php:22
+msgid "Photo"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:205
+msgid "Platform"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:209
+msgid "Platform Background Color"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:630
+#: app/Services/Widgets/FacebookFeedWidget.php:771
+#: app/Services/Widgets/TwitterWidget.php:920
+msgid "Platform Icon Color"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:621
+#: app/Services/Platforms/Reviews/Config.php:242
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:160
+msgid "Platform Name"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:55
+msgid "Platforms"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:263
+msgid ""
+"Please check that you have entered your Twitter API token information "
+"correctly"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:266
+msgid "Please check the Twitter Username you have entered is correct"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:167
+msgid ""
+"Please check, you allow all access in wp social ninja facebook app correctly."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:162
+msgid "Please configure your business account correctly!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:528
+msgid "Please enter a hashtag to fetch your instagram hashtags feed!!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:59
+msgid "Please enter a valid business name!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:595
+msgid "Please enter a valid channel id!! "
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:100
+msgid "Please enter a valid ur!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:549
+msgid "Please enter a video id!! "
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:591
+msgid "Please enter channel id to fetch videos!! "
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:56
+msgid "Please provide a user id."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:227
+msgid "Please select a page to get feeds"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:51
+msgid "Please select business type field!"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:77
+msgid "Please set a template platform name on your shortcode"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:380
+msgid "Please set your twitter configuration correctly!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:390
+msgid "Please upgrade to pro version to use this features!! "
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:45
+msgid "Please, set a template platform name or template id on your shortcode"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:462
+msgid "Popular page builder widget ready"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:227
+msgid "Popup Box"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:142
+msgid "Post Author"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:224
+msgid "Post Content"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:313
+#: app/Services/Platforms/Feeds/Facebook/Config.php:115
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:166
+msgid "Post Date"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:246
+msgid "Post Description"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:278
+msgid "Post Summary Card"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:383
+#: app/Services/Platforms/Feeds/Facebook/Config.php:147
+msgid "Post Text"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/Config.php:262
+msgid "Post Time"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:343
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:269
+#: app/Services/Platforms/Feeds/Facebook/Config.php:131
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:190
+msgid "Post Title"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:30
+msgid "Posts"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:414
+msgid "Posts are not available!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:477
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:679
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:795
+msgid "Problem in api key or access token setting!!"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:52
+msgid "Provided platform name is not valid."
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:119
+msgid "QA Manager"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterApi.php:261
+msgid "Rate Limit Exceeded. Please try again an hour later"
+msgstr ""
+
+#: app/Views/public/reviews-templates/elements/reviewer-rating.php:24
+msgid "Rated"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:162
+msgid "Rating"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:41
+#: app/Services/Platforms/Reviews/Config.php:286
+msgid "Rating Number"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:57
+msgid "Rating Text"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:108
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:92
+msgid "Rating Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:83
+msgid "Rating Text Typography"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:270
+msgid "Rating Title"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:35
+msgid "Read all reviews"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:37
+msgid "Read less"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:230
+msgid "Read More"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:36
+msgid "Read more"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:437
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:258
+msgid "Read More Link Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:185
+msgid "Read More Link Color:"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:575
+#: app/Services/Platforms/Reviews/Config.php:223
+msgid "Read More/Less"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:163
+msgid "Read our {reviews_count} Reviews"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:32
+msgid "recommends"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:464
+msgid "Responsive query"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:777
+#: app/Services/Platforms/Reviews/Config.php:444
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:225
+#: app/Services/Platforms/Feeds/Instagram/Config.php:320
+msgid "Review Box"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:395
+#: app/Services/Platforms/Reviews/Config.php:160
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:136
+msgid "Review Date"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:72
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:86
+msgid "Review has been successfully created"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:152
+msgid "Review has been successfully deleted"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/RecommendationsController.php:105
+msgid "Review has been successfully updated"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:148
+msgid "Review Text"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:386
+msgid "Review Time"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:124
+msgid "Review Title"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:215
+#: app/Services/Platforms/Reviews/Config.php:112
+#: app/Services/Platforms/Reviews/Config.php:354
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:112
+msgid "Reviewer Name"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:61
+#: app/Services/Widgets/Oxygen/OxygenWidget.php:50
+msgid "Reviews"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:51
+msgid "Reviews fetched failed, Please try again!!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:41
+msgid "Reviews fetched successfully!!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/BaseReview.php:288
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:544
+msgid "Reviews synced successfully!"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:357
+#: app/Services/Widgets/YoutubeWidget.php:557
+#: app/Services/Widgets/ReviewsWidget.php:235
+#: app/Services/Widgets/ReviewsWidget.php:325
+#: app/Services/Widgets/ReviewsWidget.php:415
+#: app/Services/Widgets/ReviewsWidget.php:505
+msgid "Right"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:134
+msgid "Sales Manager"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:61
+msgid "Saturday"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:474
+msgid "Schema snippet"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:471
+msgid "Scroll the text in the review box"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:74
+#: app/Services/Widgets/InstagramWidget.php:73
+#: app/Services/Widgets/FacebookFeedWidget.php:73
+#: app/Services/Widgets/TwitterWidget.php:74
+#: app/Services/Widgets/ReviewsWidget.php:84
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:60
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:60
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:60
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:58
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:59
+msgid "Select a Template"
+msgstr ""
+
+#: app/Services/Widgets/Helper.php:25
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:441
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:533
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:269
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:375
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:547
+msgid "Select a template"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:35
+msgid "Select Reviews Template"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:35
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:35
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:35
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:35
+msgid "Select Template"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:93
+msgid "Settings"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/BaseFeed.php:64
+#: app/Services/Platforms/Reviews/BaseReview.php:154
+#: app/Services/Platforms/Reviews/BaseReview.php:209
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:106
+msgid "Settings saved successfully!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:424
+msgid "Share"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:463
+msgid "Shortcode integration"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:470
+msgid "Shorten longer reviews"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:399
+msgid ""
+"Show the best AliExpress reviews on your website to promote your brand with "
+"a detailed customization option."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:446
+msgid ""
+"Showcase Facebook reviews on your WordPress website & prove your business "
+"credibility to another level."
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:20
+#: app/Services/Widgets/FacebookFeedWidget.php:66
+msgid "Social Ninja Facebook Feed"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:20
+msgid "Social Ninja Instagram"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:66
+msgid "Social Ninja Instagram Feed"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:20
+#: app/Services/Widgets/ReviewsWidget.php:77
+msgid "Social Ninja Reviews"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:20
+msgid "Social Ninja Twitter"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:67
+msgid "Social Ninja Twitter Feed"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:21
+msgid "Social Ninja YouTube"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:67
+msgid "Social Ninja Youtube"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:11
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:18
+msgid "Social Reviews"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:458
+msgid "Something went wrong"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:182
+msgid "Something went wrong, please try again!"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:87
+msgid "Sorry! License could not be added. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:75
+msgid "Sorry! License could not be removed. Please try again"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:63
+msgid "Sorry! License could not be retrieved. Please try again"
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:159
+msgid "Sorry! We could not get any reviews"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:70
+msgid "Sorry, Something went wrong!"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:408
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:500
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:79
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:236
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:342
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:514
+msgid "Spacing"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:175
+#: app/Services/Widgets/YoutubeWidget.php:482
+#: app/Services/Widgets/InstagramWidget.php:174
+#: app/Services/Widgets/InstagramWidget.php:500
+#: app/Services/Widgets/TwitterWidget.php:333
+#: app/Services/Widgets/TwitterWidget.php:576
+#: app/Services/Widgets/TwitterWidget.php:790
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:119
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:334
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:235
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:360
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:426
+#: app/Services/Platforms/Feeds/Instagram/Config.php:66
+#: app/Services/Platforms/Feeds/Instagram/Config.php:222
+msgid "Spacing Between Item"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/Config.php:58
+#: app/Services/Platforms/Feeds/Youtube/Config.php:153
+msgid "Spacing Between Items"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/Config.php:47
+msgid "Spacing Bottom"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:136
+#: app/Services/Platforms/Reviews/Config.php:169
+#: app/Services/Platforms/Reviews/Config.php:210
+msgid "Spacing Top"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:42
+msgid "Start Chat with:"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:146
+#: app/Services/Widgets/YoutubeWidget.php:427
+#: app/Services/Widgets/InstagramWidget.php:145
+#: app/Services/Widgets/InstagramWidget.php:441
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:89
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:321
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:205
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:89
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:262
+#: app/Services/Platforms/Feeds/Instagram/Config.php:44
+#: app/Services/Platforms/Feeds/Instagram/Config.php:183
+#: app/Services/Platforms/Feeds/Youtube/Config.php:51
+#: app/Services/Platforms/Feeds/Youtube/Config.php:144
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:189
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:169
+msgid "Statistics"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:95
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:95
+msgid "Statistics Color"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:352
+#: app/Services/Platforms/Feeds/Twitter/Config.php:105
+msgid "Statistics Count"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:135
+msgid "Statistics Count Color"
+msgstr ""
+
+#: app/Services/Widgets/TwitterWidget.php:304
+#: app/Services/Platforms/Feeds/Twitter/Config.php:89
+msgid "Statistics Label"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:125
+msgid "Statistics Label Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:68
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:68
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:68
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:66
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:67
+msgid "Style"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Config.php:186
+msgid "SUBSCRIBE"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:225
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:156
+#: app/Services/Platforms/Feeds/Youtube/Config.php:86
+msgid "Subscribe Button"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:125
+msgid "Subscribe Button Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:115
+msgid "Subscribe Button Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:135
+msgid "Subscribe Button Typography"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:23
+msgid "Subscribers"
+msgstr ""
+
+#: app/Services/Platforms/Chats/SocialChat.php:37
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:179
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:394
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:242
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:266
+msgid "Success"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/BaseFeed.php:54
+msgid "success"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:185
+msgid "Successfully Connected!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:132
+msgid "Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Platforms/Chats/SocialChat.php:81
+msgid "Successfully Updated"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:449
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:303
+#: app/Services/Platforms/Feeds/Facebook/Config.php:193
+msgid "Summary Card"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:62
+msgid "Sunday"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:103
+msgid "Support"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:159
+msgid "Template has been successfully deleted"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:218
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:452
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:305
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:294
+msgid "Template Saved Successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/Platforms/Reviews/MetaController.php:105
+msgid "Template saved successfully!!"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:138
+msgid "Template successfully duplicated"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:71
+msgid "Templates"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:66
+msgid "Testimonials"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:228
+msgid "Text"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:106
+#: app/Services/Widgets/YoutubeWidget.php:154
+#: app/Services/Widgets/YoutubeWidget.php:204
+#: app/Services/Widgets/YoutubeWidget.php:234
+#: app/Services/Widgets/YoutubeWidget.php:644
+#: app/Services/Widgets/InstagramWidget.php:105
+#: app/Services/Widgets/InstagramWidget.php:153
+#: app/Services/Widgets/InstagramWidget.php:202
+#: app/Services/Widgets/InstagramWidget.php:232
+#: app/Services/Widgets/InstagramWidget.php:262
+#: app/Services/Widgets/InstagramWidget.php:373
+#: app/Services/Widgets/InstagramWidget.php:449
+#: app/Services/Widgets/InstagramWidget.php:541
+#: app/Services/Widgets/FacebookFeedWidget.php:97
+#: app/Services/Widgets/FacebookFeedWidget.php:195
+#: app/Services/Widgets/FacebookFeedWidget.php:392
+#: app/Services/Widgets/TwitterWidget.php:204
+#: app/Services/Widgets/TwitterWidget.php:312
+#: app/Services/Widgets/TwitterWidget.php:390
+#: app/Services/Widgets/TwitterWidget.php:639
+#: app/Services/Widgets/TwitterWidget.php:715
+#: app/Services/Widgets/TwitterWidget.php:831
+#: app/Services/Widgets/ReviewsWidget.php:129
+#: app/Services/Widgets/ReviewsWidget.php:696
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:93
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:326
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:209
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:93
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:123
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:179
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:247
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:281
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:159
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:149
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:173
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:197
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:219
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:146
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:170
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:317
+msgid "Text Color"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:33
+#: app/Services/Platforms/Reviews/Config.php:49
+#: app/Services/Platforms/Reviews/Config.php:65
+#: app/Services/Platforms/Reviews/Config.php:81
+#: app/Services/Platforms/Reviews/Config.php:122
+#: app/Services/Platforms/Reviews/Config.php:151
+#: app/Services/Platforms/Reviews/Config.php:173
+#: app/Services/Platforms/Reviews/Config.php:192
+#: app/Services/Platforms/Reviews/Config.php:214
+#: app/Services/Platforms/Reviews/Config.php:233
+#: app/Services/Platforms/Reviews/Config.php:252
+#: app/Services/Platforms/Reviews/Config.php:278
+#: app/Services/Platforms/Reviews/Config.php:294
+#: app/Services/Platforms/Reviews/Config.php:310
+#: app/Services/Platforms/Reviews/Config.php:362
+#: app/Services/Platforms/Reviews/Config.php:378
+#: app/Services/Platforms/Reviews/Config.php:394
+#: app/Services/Platforms/Reviews/Config.php:429
+#: app/Services/Platforms/Feeds/Twitter/Config.php:33
+#: app/Services/Platforms/Feeds/Twitter/Config.php:49
+#: app/Services/Platforms/Feeds/Twitter/Config.php:65
+#: app/Services/Platforms/Feeds/Twitter/Config.php:81
+#: app/Services/Platforms/Feeds/Twitter/Config.php:97
+#: app/Services/Platforms/Feeds/Twitter/Config.php:113
+#: app/Services/Platforms/Feeds/Twitter/Config.php:129
+#: app/Services/Platforms/Feeds/Twitter/Config.php:171
+#: app/Services/Platforms/Feeds/Twitter/Config.php:191
+#: app/Services/Platforms/Feeds/Twitter/Config.php:207
+#: app/Services/Platforms/Feeds/Twitter/Config.php:236
+#: app/Services/Platforms/Feeds/Twitter/Config.php:272
+#: app/Services/Platforms/Feeds/Instagram/Config.php:36
+#: app/Services/Platforms/Feeds/Instagram/Config.php:70
+#: app/Services/Platforms/Feeds/Instagram/Config.php:86
+#: app/Services/Platforms/Feeds/Instagram/Config.php:102
+#: app/Services/Platforms/Feeds/Instagram/Config.php:118
+#: app/Services/Platforms/Feeds/Instagram/Config.php:174
+#: app/Services/Platforms/Feeds/Instagram/Config.php:208
+#: app/Services/Platforms/Feeds/Instagram/Config.php:238
+#: app/Services/Platforms/Feeds/Instagram/Config.php:254
+#: app/Services/Platforms/Feeds/Instagram/Config.php:270
+#: app/Services/Platforms/Feeds/Instagram/Config.php:286
+#: app/Services/Platforms/Feeds/Instagram/Config.php:305
+#: app/Services/Platforms/Feeds/Youtube/Config.php:33
+#: app/Services/Platforms/Feeds/Youtube/Config.php:62
+#: app/Services/Platforms/Feeds/Youtube/Config.php:78
+#: app/Services/Platforms/Feeds/Youtube/Config.php:94
+#: app/Services/Platforms/Feeds/Youtube/Config.php:135
+#: app/Services/Platforms/Feeds/Youtube/Config.php:157
+#: app/Services/Platforms/Feeds/Youtube/Config.php:176
+#: app/Services/Platforms/Feeds/Youtube/Config.php:195
+#: app/Services/Platforms/Feeds/Facebook/Config.php:36
+#: app/Services/Platforms/Feeds/Facebook/Config.php:55
+#: app/Services/Platforms/Feeds/Facebook/Config.php:71
+#: app/Services/Platforms/Feeds/Facebook/Config.php:107
+#: app/Services/Platforms/Feeds/Facebook/Config.php:123
+#: app/Services/Platforms/Feeds/Facebook/Config.php:139
+#: app/Services/Platforms/Feeds/Facebook/Config.php:155
+#: app/Services/Platforms/Feeds/Facebook/Config.php:256
+#: app/Services/Platforms/Feeds/Facebook/Config.php:281
+msgid "Text Color:"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:95
+msgid "This field should not be empty!!"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:66
+msgid "Thursday"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:337
+#: app/Services/Widgets/ReviewsWidget.php:305
+#: app/Services/Platforms/Reviews/Config.php:25
+#: app/Services/Platforms/Reviews/Config.php:182
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:250
+#: app/Services/Platforms/Feeds/Youtube/Config.php:125
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:145
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:157
+msgid "Title"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:360
+msgid "Title Bottom Spacing"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:350
+#: app/Services/Widgets/FacebookFeedWidget.php:497
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:339
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:292
+msgid "Title Color"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/Config.php:222
+msgid "Title Color:"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:344
+msgid "Title Font Size"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:350
+msgid "Title Font Weight"
+msgstr ""
+
+#: app/Services/Widgets/FacebookFeedWidget.php:361
+msgid "Title Hover Color"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:355
+msgid "Title Line Height"
+msgstr ""
+
+#: app/Http/Controllers/TemplatesController.php:189
+msgid "Title updated successfully!!"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:98
+msgid "Tools"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:242
+msgid "Top Spacing"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Config.php:302
+msgid "Total Reviews"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:352
+msgid "Tripadvisor Reviews"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:64
+msgid "Tuesday"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:28
+msgid "Tweets"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:38
+msgid "Twitter"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:11
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:20
+msgid "Twitter Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:197
+msgid "Twitter Settings Updated"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:109
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:118
+msgid "Twitter Successfully Connected!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/TwitterFeed.php:131
+msgid "Twitter Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:89
+#: app/Services/Platforms/Chats/Config.php:104
+msgid "Typically replies within an hour"
+msgstr ""
+
+#: app/Services/Widgets/YoutubeWidget.php:119
+#: app/Services/Widgets/YoutubeWidget.php:167
+#: app/Services/Widgets/YoutubeWidget.php:217
+#: app/Services/Widgets/YoutubeWidget.php:260
+#: app/Services/Widgets/YoutubeWidget.php:384
+#: app/Services/Widgets/YoutubeWidget.php:474
+#: app/Services/Widgets/YoutubeWidget.php:584
+#: app/Services/Widgets/YoutubeWidget.php:636
+#: app/Services/Widgets/InstagramWidget.php:118
+#: app/Services/Widgets/InstagramWidget.php:166
+#: app/Services/Widgets/InstagramWidget.php:215
+#: app/Services/Widgets/InstagramWidget.php:245
+#: app/Services/Widgets/InstagramWidget.php:288
+#: app/Services/Widgets/InstagramWidget.php:398
+#: app/Services/Widgets/InstagramWidget.php:474
+#: app/Services/Widgets/InstagramWidget.php:533
+#: app/Services/Widgets/FacebookFeedWidget.php:110
+#: app/Services/Widgets/FacebookFeedWidget.php:232
+#: app/Services/Widgets/FacebookFeedWidget.php:305
+#: app/Services/Widgets/FacebookFeedWidget.php:335
+#: app/Services/Widgets/FacebookFeedWidget.php:374
+#: app/Services/Widgets/FacebookFeedWidget.php:405
+#: app/Services/Widgets/FacebookFeedWidget.php:470
+#: app/Services/Widgets/FacebookFeedWidget.php:510
+#: app/Services/Widgets/FacebookFeedWidget.php:550
+#: app/Services/Widgets/FacebookFeedWidget.php:591
+#: app/Services/Widgets/FacebookFeedWidget.php:639
+#: app/Services/Widgets/FacebookFeedWidget.php:687
+#: app/Services/Widgets/TwitterWidget.php:119
+#: app/Services/Widgets/TwitterWidget.php:168
+#: app/Services/Widgets/TwitterWidget.php:229
+#: app/Services/Widgets/TwitterWidget.php:277
+#: app/Services/Widgets/TwitterWidget.php:325
+#: app/Services/Widgets/TwitterWidget.php:373
+#: app/Services/Widgets/TwitterWidget.php:416
+#: app/Services/Widgets/TwitterWidget.php:521
+#: app/Services/Widgets/TwitterWidget.php:568
+#: app/Services/Widgets/TwitterWidget.php:664
+#: app/Services/Widgets/TwitterWidget.php:764
+#: app/Services/Widgets/TwitterWidget.php:823
+#: app/Services/Widgets/ReviewsWidget.php:262
+#: app/Services/Widgets/ReviewsWidget.php:352
+#: app/Services/Widgets/ReviewsWidget.php:442
+#: app/Services/Widgets/ReviewsWidget.php:532
+#: app/Services/Widgets/ReviewsWidget.php:608
+#: app/Services/Widgets/ReviewsWidget.php:654
+#: app/Services/Widgets/ReviewsWidget.php:688
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:199
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:233
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:267
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:346
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:179
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:203
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:257
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:159
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:183
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:207
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:261
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:147
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:171
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:195
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:244
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:298
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:156
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:180
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:214
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:268
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:337
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:391
+msgid "Typography"
+msgstr ""
+
+#: app/Services/Helper.php:137
+msgid "Untitled"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Twitter/Config.php:41
+#: app/Services/Platforms/Feeds/Instagram/Config.php:25
+#: app/Services/Platforms/Feeds/Instagram/Config.php:230
+#: app/Services/Platforms/Feeds/Facebook/Config.php:25
+msgid "User Name"
+msgstr ""
+
+#: app/Services/Widgets/InstagramWidget.php:97
+#: app/Services/Widgets/FacebookFeedWidget.php:570
+#: app/Services/Widgets/TwitterWidget.php:146
+msgid "UserName"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/InstagramWidget.php:52
+#: app/Services/Widgets/Oxygen/TwitterWidget.php:89
+#: app/Services/Widgets/Oxygen/FacebookWidget.php:52
+#: app/Services/Platforms/Feeds/Twitter/Config.php:183
+msgid "Username"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:95
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:85
+msgid "UserName Color"
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/elements/media.php:25
+msgid "Video"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:26
+msgid "Videos"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:39
+msgid "View on Facebook"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:40
+msgid "View on Instagram"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:27
+msgid "Views"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:553
+msgid "We couldn't find any feed from your instagram account!!"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:464
+msgid "We don't find any business location from this email address"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Airbnb.php:82
+#: app/Services/Platforms/Reviews/Airbnb.php:88
+msgid ""
+"We don't find this business in the search results! Please try with business "
+"url!!"
+msgstr ""
+
+#: app/Hooks/filters.php:77
+#, php-format
+msgid "We hope you are enjoying %1$s - %2$s - %3$s - %4$s"
+msgstr ""
+
+#: app/Services/Platforms/Chats/Config.php:65
+msgid "Wednesday"
+msgstr ""
+
+#: app/Services/GlobalSettings.php:31
+msgid "Where you want to leave a review?"
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:148
+msgid "Widget has been successfully deleted."
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:125
+msgid "Widget status update successfully."
+msgstr ""
+
+#: app/Http/Controllers/WidgetsController.php:108
+msgid "Widget successfully duplicated."
+msgstr ""
+
+#. Name of the plugin
+#: app/Services/SidebarWidgets.php:23 app/Hooks/filters.php:78
+#: app/Services/Widgets/ElementorWidget.php:20
+#: app/Hooks/Handlers/AdminMenuHandler.php:30
+#: app/Services/Widgets/Oxygen/OxygenWidget.php:44
+#: app/Services/Widgets/Beaver/Twitter/TwitterWidget.php:22
+#: app/Services/Widgets/Beaver/Instagram/InstagramWidget.php:22
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:22
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:20
+#: app/Services/Widgets/Beaver/Facebook/FacebookWidget.php:22
+msgid "WP Social Ninja"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WP Social Ninja - is an all-in-one WordPress Social plugin to automatically "
+"integrate your social media reviews, news feeds, and chat functionalities on "
+"your website."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPManageNinja LLC"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/Helper.php:147
+msgid "Write a Review"
+msgstr ""
+
+#: app/Services/Widgets/ReviewsWidget.php:120
+#: app/Services/Platforms/Reviews/Config.php:73
+msgid "Write a Review Button"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/ReviewsWidget.php:61
+msgid "Write a review button"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:121
+msgid "Write a Review Button Background Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:111
+msgid "Write a Review Button Text Color"
+msgstr ""
+
+#: app/Services/Widgets/Beaver/Reviews/ReviewsWidget.php:102
+msgid "Write a Review Button Typography"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:329
+msgid "Yelp Reviews"
+msgstr ""
+
+#: app/Services/Platforms/Reviews/GoogleMyBusiness.php:412
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:105
+msgid "You are Successfully Verified"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Facebook/FacebookFeed.php:52
+msgid "You are Successfully Verified."
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:173
+msgid "You are successfully verified."
+msgstr ""
+
+#: app/Views/public/feeds-templates/facebook/template1.php:11
+msgid "You need to upgrade to pro to use this feature."
+msgstr ""
+
+#: app/Hooks/Handlers/ShortcodeHandler.php:120
+msgid "You need to upgrade to pro to use this template!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:522
+msgid "You need to upgrade to pro version to show hashtag feeds!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:507
+msgid "You need to upgrade to pro version to show tagged feeds!!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:91
+msgid "You've successfully connected your account!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Instagram/InstagramFeed.php:345
+msgid "Your Instagram Account Successfully Disconnected!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:37
+msgid "Youtube"
+msgstr ""
+
+#: app/Services/Widgets/Oxygen/YouTubeWidget.php:11
+#: app/Services/Widgets/Beaver/YouTube/YouTubeWidget.php:20
+msgid "YouTube Feeds"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:276
+msgid "Youtube Settings Updated"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:178
+msgid "Youtube Successfully Connected!"
+msgstr ""
+
+#: app/Services/Platforms/Feeds/Youtube/YoutubeFeed.php:195
+msgid "Youtube Successfully Disconnected!"
+msgstr ""
